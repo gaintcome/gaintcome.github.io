@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Cybersecurity, Northeastern University, 2022 (expected)
+* M.S. in Computer Engineering- Software, Azad University of Mashhad, 2016
+* B.S. in Computer Software Technology Engineering, Sadjad Institute of Higher Education, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Security Engineer Intern**: Jun 2020 - Aug 2020
+  * Flatiron Health, New York City, NY
+  * Duties included: Automatic remediation of security issues in the AWS environment.
   
+* **Research Assistant**: Fall 2016-present: 
+  * Northeastern University, Boston, MA
+  * Duties included: Research on low-level systems security
+  * Supervisors: Professors Long Lu, Engin Kirda
+
+* **Network Engineer/Researcher**: October 2012 - May 2016
+  * ZharfPouyan R&D company, Mashhad, Iran
+  * Duties included: Research on router architectures 
+  
+
+
 Skills
 ======
 * Skill 1
