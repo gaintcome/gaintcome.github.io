@@ -2,9 +2,9 @@
 title: "Finding Bugs Using Your Own Code: Machine Learning-based Inconsistent Code Detection."
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/fics
 venue: "OWASP Boston Application Security Conference (BASC) 2019"
-date: 2019-19-10
+date: 2019-10-19
 location: "Burlington, MA"
 ---
 
