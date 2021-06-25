@@ -2,7 +2,7 @@
 title: "MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing"
 collection: publications
 permalink: /publication/meuzz
-date: 2020-14-10
+date: 2020-10-14
 venue: 'Proceedings of the 23rd International Symposium on Research in Attacks, Intrusions and Defenses'
 ---
 Yaohui Chen, Mansour Ahmadi, **Reza Mirzazade Farkhani**, Boyu Wang, Long Lu
