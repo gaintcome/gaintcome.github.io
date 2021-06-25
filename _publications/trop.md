@@ -1,0 +1,31 @@
+---
+title: "On the effectiveness of type-based control flow integrity"
+collection: publications
+permalink: /publication/trop
+date: 2018-12-12
+venue: 'Annual Computer Security Applications Conference (ACSAC)'
+---
+**Reza Mirzazade Farkhani**, Saman Jafari, Sajjad Arshad, William Robertson, Engin Kirda, Hamed Okhravi
+
+[PDF](http://gaintcome.github.io/files/trop.pdf)
+
+### Abstract
+
+Control flow integrity (CFI) has received significant attention in the community
+to combat control hijacking attacks in the presence of memory corruption
+vulnerabilities. The challenges in creating a practical CFI has resulted in the
+development of a new type of CFI based on runtime type checking (RTC). RTC-based
+CFI has been implemented in a number of recent practical efforts such as
+GRSecurity Reuse Attack Protector (RAP) and LLVM-CFI. While there has been a
+number of previous efforts that studied the strengths and limitations of other
+types of CFI techniques, little has been done to evaluate the RTC-based CFI. In
+this work, we study the effectiveness of RTC from the security and practicality
+aspects. From the security perspective, we observe that type collisions are
+abundant in sufficiently large code bases but exploiting them to build a
+functional attack is not straightforward. Then we show how an attacker can
+successfully bypass RTC techniques using a variant of ROP attacks that respect
+type checking (called TROP) and also built two proof-of-concept exploits, one
+against Nginx web server and the other against Exim mail server. We also discuss
+practical challenges of implementing RTC. Our findings suggest that while RTC is
+more practical for applying CFI to large code bases, its policy is not strong
+enough when facing a motivated attacker.
