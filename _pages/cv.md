@@ -61,7 +61,6 @@ Talks
    -->
 Service and leadership
 ======
-* IEEE Security & Privacy Magazine reviewer (2020)
-* IEEE Access journal reviewer (2018)
-* International Journal of Cyber-Security and Digital Forensics reviewer (2019) 
-* 
+  * IEEE Security & Privacy Magazine reviewer (2020)
+  * IEEE Access journal reviewer (2018)
+  * International Journal of Cyber-Security and Digital Forensics reviewer (2019) 
