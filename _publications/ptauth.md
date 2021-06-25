@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/ptauth
 date: 2021-11-08
 venue: 'Proceedings of the 30th USENIX Security Symposium'
-author: 'Reza Mirzazade Farkhani, Mansour Ahmadi, Long Lu'
 ---
+**Reza Mirzazade Farkhani**, Mansour Ahmadi, Long Lu
 
 [PDF](http://gaintcome.github.io/files/ptauth.pdf)
 
