@@ -5,7 +5,6 @@ permalink: /publication/ptauth
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2021-11-08
 venue: 'Proceedings of the 30th USENIX Security Symposium'
-paperurl: 'https://www.usenix.org/system/files/sec21summer_mirzazade.pdf'
 ---
 Abstract
 
