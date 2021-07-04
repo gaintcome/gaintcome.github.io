@@ -11,15 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cybersecurity, Northeastern University, 2022 (expected)
-* M.S. in Computer Engineering- Software, Azad University of Mashhad, 2016
-* B.S. in Computer Software Technology Engineering, Sadjad Institute of Higher Education, 2012
+* Ph.D in Cybersecurity, Northeastern University, Boston, MA, 2016-2022 (expected)
+* M.S. in Computer Engineering- Software, Azad University of Mashhad, 2012-2016
+* B.S. in Computer Software Technology Engineering, Sadjad Institute of Higher Education, 2009-2012
 
-Work experience
+Work Experience
 ======
 * **Security Engineer Intern**: Jun 2020 - Aug 2020
-  * Flatiron Health, New York City, NY
+  * **Flatiron Health**, New York City, NY
   * Duties included: Automatic remediation of security issues in the AWS environment.
+  * [I developed two modules for the Remediation Framework to automatically detect and remediate the security issues in AWS configurations](https://github.com/flatironhealth/aws-remediation-framework)
+  * [DEF CON presenation of the Remediation Framework](https://youtu.be/R0IsUsQDYN4?t=57)
   
 * **Research Assistant**: Fall 2016-present: 
   * Northeastern University, Boston, MA
@@ -32,14 +34,18 @@ Work experience
   
 
 
-<!-- Skills
+ Technical Skills
 ======
-* Vulnerability Analysis in C/C++
-* Binary Analysis
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Secure Coding
+  * C/C++, Python, Go Lang, Rust 
+* Static & Dynamic Program Analysis
+* Binary Analysis and Reverse Engineering
+  * GDB, Ghidra, IDA Pro, Ghidra
+* Vulnerability Detection
+  * Fuzzing
+  * Source-code Auditing
+* Cloud 
+  * AWS Amazon Web Services, IAM, Lambda, Terraform
 
 Publications
 ======
@@ -60,7 +66,7 @@ Talks
   {% endfor %}</ul>
    -->
 
-Service and leadership
+Service and Leadership
 ======
   * IEEE Security & Privacy Magazine reviewer (2020)
   * IEEE Access journal reviewer (2018)
