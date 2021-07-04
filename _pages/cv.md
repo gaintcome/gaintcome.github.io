@@ -59,6 +59,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+Awards
+======
+  * BlackHat USA Student Scholarship (2018, 2021)
+  * 3rd place at CMD+CTRL web application CTF at OWASP Boston (2019)
+  * 4th place at SharifCTF 8 (2018)
+  * 20th place at CSAW CTF Qualification Round (2017)
+  * First place at SharifCTF 7 (2016)
+  
 Service and Leadership
 ======
   * IEEE Security & Privacy Magazine reviewer (2020)
